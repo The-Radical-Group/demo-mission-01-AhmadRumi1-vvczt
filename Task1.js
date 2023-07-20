@@ -9,5 +9,5 @@ function deleteRow(rows,id){
     return rows;
 }
 
-// this is a
+// this is a complete sentence
 module.exports = deleteRow;
